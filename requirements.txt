@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+insightface==0.7.3
+onnxruntime
+numpy<2
+pillow
+opencv-python-headless
